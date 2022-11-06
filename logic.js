@@ -15,6 +15,7 @@ document.addEventListener('keydown', function (e) {
         score.innerHTML= i++
     }
 })
+//query to end game
 // setInterval(() => {
 //     dx = parseInt(window.getComputedStyle(dino, null).getPropertyValue("left"))
 //     dy = parseInt(window.getComputedStyle(dino, null).getPropertyValue("bottom"))
