@@ -4,6 +4,7 @@ gameover = document.querySelector(".gameover")
 obstacleani = document.querySelector(".obstacleani")
 let score = document.querySelector(".score")
 
+//code to move character
 i = 0;
 document.addEventListener('keydown', function (e) {
     // console.log(e.key , e.code)
